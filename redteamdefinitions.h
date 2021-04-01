@@ -24,7 +24,7 @@ float turnVal = 0000.000;
 #define JOYSTICK_RIGHT 632
 #define JOYSTICK_LEFT 385
 #define JOYSTICK_UP 638
-#define JOYSTICK_ZERO 511
+#define JOYSTICK_ZERO_Y 511
 #define JOYSTICK_DOWN 380
 
 // motor sensitivity block (i.e. acceleration)
