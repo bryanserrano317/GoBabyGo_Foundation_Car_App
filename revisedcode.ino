@@ -38,7 +38,7 @@ void loop()
   joyYVal = analogRead(JOYSTICK_YPIN);
 
   if ( JOYSTICK_LEFT <  JOYSTICK_RIGHT)
-      (joyXVal <  JOYSTICK_ZERO_X) ? turnVal = giveDirection('L') : sturnVal = giveDirection('R');
+      (joyXVal <  JOYSTICK_ZERO_X) ? turnVal = giveDirection('L') : turnVal = giveDirection('R');
 
   if ( JOYSTICK_LEFT >  JOYSTICK_RIGHT)
       (joyXVal >  JOYSTICK_ZERO_X) ? turnVal = giveDirection('L') : turnVal = giveDirection('R');
