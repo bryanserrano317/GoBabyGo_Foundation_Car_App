@@ -8,6 +8,8 @@ manual steering and power from a joystick
 Highlights of the car's manuverability include zero-radius turning, gradual acceleration
 and deceleration, as well as high torque values and slow speed values for safety and functionality
 
+Also implements bluetooth connectivity for remote access using web-app: gobabygocarapp.com
+
 Lead designers: Bryan Serrano, Max Everett
 
 */
