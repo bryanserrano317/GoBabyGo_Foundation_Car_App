@@ -10,7 +10,7 @@ Lead designers: Bryan Serrano, Max Everett
 
 
 #include <Servo.h>
-#include "redteamdefinitions.h"
+#include "system_definitions.h"
 
 
 void setup()
